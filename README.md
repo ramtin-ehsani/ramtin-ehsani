@@ -1,4 +1,4 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ramtin-ehsani/ramtin-ehsani/main/wave.gif" width="30px">
 
 I am Ramtin Ehsani, currently pursuing my bachelor's degree majoring in computer engineering from [Iran University of Science and Technology](http://iust.ac.ir/). I am a tech enthusiast & an open-source advocate.
 
