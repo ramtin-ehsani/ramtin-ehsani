@@ -14,7 +14,6 @@ Feel free to contact me:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
@@ -24,6 +23,7 @@ Feel free to contact me:
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
@@ -32,7 +32,6 @@ Feel free to contact me:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
