@@ -2,7 +2,7 @@
 
 I am Ramtin Ehsani, currently pursuing my bachelor's degree majoring in computer engineering from [Iran University of Science and Technology](http://iust.ac.ir/). I am a tech enthusiast & an open-source advocate.
 
-<h3>You can reach me at</h3>
+## 📌 You can reach me at
 
 [![Linkedin Badge](https://img.shields.io/badge/-ramtinehsani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramtin-ehsani/)](https://www.linkedin.com/in/ramtin-ehsani/)
 [![Gmail Badge](https://img.shields.io/badge/-ramtin.ehsani79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramtin.ehsani79@gmail.com)](mailto:ramtin.ehsani79@gmail.com)
