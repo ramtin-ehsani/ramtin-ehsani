@@ -10,7 +10,7 @@ I am Ramtin Ehsani, currently pursuing my bachelor's degree majoring in computer
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Ramtin_Ehsani)](https://t.me/Ramtin_Ehsani)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+989395557407)](https://wa.me/+989395557407)
 
-## ⚡ Technologies
+## ⚡ Technologies and Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -43,6 +43,6 @@ I am Ramtin Ehsani, currently pursuing my bachelor's degree majoring in computer
 
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ramtin-ehsani&theme=dark&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtin-ehsani&theme=dark&layout=compact)
+<!--- ![Github Stats](https://github-readme-stats.vercel.app/api?username=ramtin-ehsani&theme=dark&count_private=true&show_icons=true) --->
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramtin-ehsani&theme=dark&layout=compact) --->
 
