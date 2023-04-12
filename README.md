@@ -1,6 +1,6 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/ramtin-ehsani/ramtin-ehsani/main/wave.gif" width="30px">
 
-My name is Ramtin. PhD candidate|Research assistant at Drexel CCI. Doing research in [SOAR lab](https://soar-lab.github.io/).
+My name is Ramtin. PhD candidate|Research assistant at Drexel CCI. Doing research in [SOAR lab](https://soar-lab.github.io/). 
 
 ## 📌 You can reach me at
 
