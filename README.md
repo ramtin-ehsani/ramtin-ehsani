@@ -6,9 +6,6 @@ My name is Ramtin. PhD candidate|Research assistant at Drexel CCI. Doing researc
 
 [![Linkedin Badge](https://img.shields.io/badge/-ramtinehsani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ramtin-ehsani/)](https://www.linkedin.com/in/ramtin-ehsani/)
 [![Gmail Badge](https://img.shields.io/badge/-ramtin.ehsani79@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ramtin.ehsani79@gmail.com)](mailto:ramtin.ehsani79@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-ramtin_ehsanii-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ramtin_ehsanii/)](https://www.instagram.com/ramtin_ehsanii/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Ramtin_Ehsani)](https://t.me/Ramtin_Ehsani)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+989395557407)](https://wa.me/+989395557407)
 
 ## ⚡ Technologies and Skills
 
